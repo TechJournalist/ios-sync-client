@@ -12,3 +12,7 @@ Build Instructions
 ------------------
 
 The project is completely self-contained and does not depend on external sources. To build, simply clone the project and then open the Sources/SyncClient.xcodeproject project in Xcode. You should be able to just hit run to build and run in the iPhone Simulator.
+
+######
+
+seeking a new non mozilla copyright name for this effort. Plan is to submit to appstore asap to pick up where moz left off.
